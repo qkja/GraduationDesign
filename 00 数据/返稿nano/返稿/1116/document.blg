@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+The style file: unsrt.bst
+Database file #1: Reference.bib
+Repeated entry---line 609 of file Reference.bib
+ : @article{RN1230
+ :                ,
+I'm skipping whatever remains of this entry
+You've used 30 entries,
+            1791 wiz_defined-function locations,
+            638 strings with 10379 characters,
+and the built_in function-call counts, 7135 in all, are:
+= -- 541
+> -- 482
+< -- 0
++ -- 171
+- -- 141
+* -- 558
+:= -- 1257
+add.period$ -- 90
+call.type$ -- 30
+change.case$ -- 29
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 265
+empty$ -- 620
+format.name$ -- 141
+if$ -- 1513
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 31
+newline$ -- 153
+num.names$ -- 30
+pop$ -- 46
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 94
+stack$ -- 0
+substring$ -- 441
+swap$ -- 30
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 53
+width$ -- 32
+write$ -- 326
+(There was 1 error message)
